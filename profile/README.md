@@ -9,7 +9,9 @@ DataLad is a free and open source distributed data management system that keeps 
 ## Quick Links
 
 ### BIDS
-- 
+- :computer: [bids.neuroimaging.io](https://bids.neuroimaging.io/index.html)
+- :book: [The BIDS Schema](https://bids-specification.readthedocs.io/en/stable/appendices/schema.html)
+- :raising_hand: [Contact](https://bids.neuroimaging.io/contact/index.html)
 
 ### DANDI Archive
 - :computer: [dandiarchive.org](https://dandiarchive.org/)
