@@ -1,6 +1,6 @@
 # 👋 Welcome to BIDS Dandisets!
 
-The primary difference between this organization and its parent, [github.com/dandisets](https://github.com/dandisets/), lies in the application of automated BIDS formatting tools provided via [nwb2bids](https://github.com/con/nwb2bids) to each Dandiset.
+The primary difference between this organization and its parent, [github.com/dandisets](https://github.com/dandisets/), lies in the application of the automated BIDS formatting tool [nwb2bids](https://github.com/con/nwb2bids) to each Dandiset.
 
 To see the current status of achieving widespread BIDS compatibility, visit the [dashboard](https://github.com/bids-dandisets/dashboard)!
 
