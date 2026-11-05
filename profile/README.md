@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dandi/bids-dandisets/bids/.github/assets/bids-dandisets-logo-square.svg">
+    <img alt="BIDS-Dandisets logo" src="https://raw.githubusercontent.com/dandi/bids-dandisets/bids/.github/assets/bids-dandisets-logo-square-light.svg" width="200">
+  </picture>
+</p>
+
 # 👋 Welcome to BIDS Dandisets!
 
 The primary difference between this organization and its parent ([github.com/dandisets](https://github.com/dandisets/)) is the application of the automated BIDS formatting tool [nwb2bids](https://github.com/con/nwb2bids) to the contents of each Dandiset.
